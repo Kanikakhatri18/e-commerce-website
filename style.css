@@ -113,6 +113,7 @@ p
   padding: 10px;
   min-width: 200px;
   margin-bottom: 50px;
+  transition: transform 0.5s;
 }
 
 .col4 img{
@@ -137,4 +138,35 @@ p
   bottom: 0;
   left: 50% ;
   transform: translateX(-50%);
+}
+.h4
+{
+  color: #555;
+  font-weight: normal;
+}
+.col4
+p{
+  font-size: 14px; 
+}
+.ratings .fa {
+  color: #ff523b;
+}
+.col4:hover
+{
+    transform: translateY(-5px);
+}
+.offer
+{
+  background: radial-gradient(#fff,#ffa3a3);
+  margin-top: 80px;
+  padding: 30px 0;
+}
+.col2 .offer-image
+{
+  padding: 50px;
+}
+small
+{
+  color: #555;
+
 }
